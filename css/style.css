@@ -9,7 +9,7 @@ html{
 a{
 	text-decoration: none;
 	color: inherit;
-	
+
 }
 
 p{
@@ -28,6 +28,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 body {
+	background-color: red;
 	color: #2F3035;
 	font-family: sans-serif;
 	font-size: 20px;
@@ -86,7 +87,7 @@ body {
 }
 
 .user-list__item{
-	
+
 	padding-right: 10px;
 }
 
@@ -185,7 +186,7 @@ body {
 .slick-dots li{
 	display: inline-block;
 	padding: 0 5px;
-	
+
 }
 
 
@@ -375,7 +376,7 @@ body {
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
-	 
+
 }
 
 .categories__item {
@@ -442,10 +443,10 @@ body {
 	display: inline-block;
 	border: 1px solid #CDCDCD;
 	border-radius: 3px;
-	
+
 	text-align: center;
 	padding: 52px 20px 31px;
-	
+
 }
 
 .product-item__title {
@@ -470,7 +471,7 @@ body {
 	position: absolute;
 	width: 24px;
 	height: 22px;
-	
+
 	top:0;
 	left: 0;
 	background-image: url(../images/favorite.svg);
