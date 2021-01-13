@@ -203,7 +203,7 @@ body {
 	outline: none;
 }
 
-.slick-active li button{
+.banner-section__slider .slick-active button{
 	background-color: #fff;
 }
 
@@ -651,4 +651,9 @@ body {
 	text-transform: uppercase;
 	padding: 16px 43px;
 	display: inline-block;
+}
+
+.banner-link {
+	display: inline-block;
+	margin-bottom: 80px;
 }
